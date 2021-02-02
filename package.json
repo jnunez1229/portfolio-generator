@@ -1,0 +1,22 @@
+{
+  "name": "portfolio-generator",
+  "version": "1.0.0",
+  "description": "generates portfolio with data input",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jnunez1229/portfolio-generator.git"
+  },
+  "author": "Juan Nunez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jnunez1229/portfolio-generator/issues"
+  },
+  "homepage": "https://github.com/jnunez1229/portfolio-generator#readme",
+  "dependencies": {
+    "inquirer": "^7.3.3"
+  }
+}
